@@ -1,0 +1,9 @@
+- Current To Do -
+1. Video of performance at different BPMs and check frames
+2. Determine motion detection functions properly
+3. Fix audio latency
+
+Other:
+1. Is there a way to get around having to add those global variables to each function in ar_drums.py?
+2. Work on style of code
+3. Abandon OOP?
